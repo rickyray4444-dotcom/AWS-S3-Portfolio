@@ -24,14 +24,6 @@ This project is a single-page portfolio website created using HTML and CSS. The 
 - "index.html" – Main webpage
 - "style.css" – Stylesheet for the webpage
 
-# Live Website
-
-CloudFront URL:
-"https://your-cloudfront-url"
-
-## GitHub Repository
-
-"https://github.com/your-username/your-repository"
 
 # Author
 
